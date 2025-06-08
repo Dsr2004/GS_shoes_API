@@ -1,0 +1,21 @@
+.env
+db.sqlite3
+media/
+/media/
+
+env/
+/env/
+venv/
+/venv/
+
+.vscode/
+/.vscode/
+settings.json
+
+
+# Ignorar archivos de caché de Python
+**/__pycache__/
+**/*.pyc
+*.pyc
+__pycache__/
+*.txt
