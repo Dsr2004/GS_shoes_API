@@ -18,4 +18,3 @@ settings.json
 **/*.pyc
 *.pyc
 __pycache__/
-*.txt
